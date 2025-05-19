@@ -42,7 +42,7 @@ require (
 	go.opentelemetry.io/proto/otlp v1.3.1 // indirect
 	k8s.io/apiserver v0.32.0 // indirect
 	k8s.io/component-base v0.32.0 // indirect
-	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.31.0 // indirect
+	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.32.0 // indirect
 )
 
 require (
