@@ -46,7 +46,7 @@ require (
 )
 
 require (
-	cel.dev/expr v0.18.0 // indirect
+	cel.dev/expr v0.24.0 // indirect
 	github.com/dchest/uniuri v1.2.0
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/google/btree v1.1.3 // indirect
